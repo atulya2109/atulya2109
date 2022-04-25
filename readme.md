@@ -20,7 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+Solidity     8 mins          █████████████████████▓░░░   87.02 %
+TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
