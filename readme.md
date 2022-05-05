@@ -20,12 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 27 mins   ████████████████████████░   95.70 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Solidity     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+From: 27 April 2022 - To: 04 May 2022
+
+Total Time: 9 hrs 14 mins
+
+TypeScript   8 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.86 %
+Solidity     5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.04 %
+Bash         5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 %
+JavaScript   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.96 %
+Git          4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.74 %
+Git Config   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.35 %
 ```
 
 <!--END_SECTION:waka-->
