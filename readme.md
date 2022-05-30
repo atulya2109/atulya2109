@@ -20,12 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
-
-Total Time: 2 mins
-
-JavaScript   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.19 %
-TypeScript   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
