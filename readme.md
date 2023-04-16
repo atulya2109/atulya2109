@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Development & Microservices Architecture**
 
-- 📫 How to reach me **[keybase.io/atulya2109](keybase.io/atulya2109)**
+- 📫 How to reach me **[keybase.io/atulya2109](https://twitter.com/atulyastwt)**
 
 - ⚡ Fun fact: **The best thing about a boolean is even if you are wrong, you are only off by a bit.**
 
