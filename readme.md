@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atulya Bist</h1>
 <h3 align="center">Turning Caffeine into Code...</h3>
 
-- 🔭 I’m currently working on **Web3 & Blockchain Technologies**
-
-- 🌱 I’m currently learning **Smart Contract Development & Microservices Architecture**
-
 <!-- - 📫 How to reach me **[https://twitter.com/atulyastwt](https://twitter.com/atulyastwt)** -->
 
 - ⚡ Fun fact: **The best thing about a boolean is even if you are wrong, you are only off by a bit.**
@@ -24,5 +20,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/atulya2109" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 155px !important;" ></a></p>
