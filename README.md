@@ -35,7 +35,7 @@ When I am not working on code or coursework, I am usually on a long run around L
 ### Projects worth a closer look
 
 - **Async image editing with ControlNet** — FastAPI, Redis queues, Kubernetes workers, MinIO/S3, GPU-heavy pipelines.
-- **Stock watch platform** — Next.js, Express, MongoDB on GCP, plus a Swift iOS client with shared backend.
+- **World models** — Predictive latent dynamics and planning in learned environments; PyTorch, modular rollouts, and evaluation against baselines.
 
 ---
 
