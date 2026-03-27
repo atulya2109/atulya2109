@@ -40,7 +40,7 @@ When I am not working on code or coursework, I am usually on a long run around L
 ---
 
 <p align="center">
-  <a href="https://github.com/atulya2109">Profile</a>
+  <a href="https://www.linkedin.com/in/atulya21">LinkedIn</a>
   ·
   Los Angeles
   ·
