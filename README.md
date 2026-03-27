@@ -5,8 +5,8 @@ Software engineer focused on **machine learning systems**, **data platforms**, a
 When I am not working on code or coursework, I am usually on a long run around Los Angeles or planning the next trail on two wheels.
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulya2109&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for atulya2109" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulya2109&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages on GitHub" />
+  <img height="180em" src="https://readme-stats-github.vercel.app/api?username=atulya2109&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for atulya2109" />
+  <img height="180em" src="https://readme-stats-github.vercel.app/api/top-langs/?username=atulya2109&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages on GitHub" />
 </p>
 
 ### Stack and tools
